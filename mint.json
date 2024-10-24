@@ -41,14 +41,16 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Deposit",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "deposit/bank",
+        "deposit/link-aja",
+        "deposit/dana",
+        "deposit/ovo",
+        "deposit/virtual-account",
+        "deposit/qris",
+        "deposit/indomaret",
+        "deposit/alfamart"
       ]
     },
     {
