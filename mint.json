@@ -27,8 +27,8 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "System Status",
+      "name": "System Status",
+      "icon": "solar-system",
       "url": "https://sprintpedia.id"
     }
   ],
