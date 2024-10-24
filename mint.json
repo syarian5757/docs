@@ -43,6 +43,7 @@
     {
       "group": "Deposit",
       "pages": [
+        "deposit/perkenalan",
         "deposit/bank",
         "deposit/link-aja",
         "deposit/dana",
@@ -52,6 +53,26 @@
         "deposit/indomaret",
         "deposit/alfamart"
       ]
+    },
+    {
+      "group": "Pemesanan",
+      "pages": [
+        "pemesanan/perkenalan",
+        "pemesanan/status",
+        "pemesanan/refill",
+        "pemesanan/cancel",
+        "pemesanan/faq"
+      ]
+    },
+    {
+        "group": "layanan",
+        "pages": [
+            "instagram",
+            {
+                "group": "instagram",
+                "pages": ["layanan/perkenalan"]
+            }
+        ]
     },
     {
       "group": "API Documentation",
