@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "SPRINTPEDIA",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Register",
+    "url": "https://sprintpedia.id/auth/register"
   },
   "anchors": [
     {
@@ -32,34 +32,31 @@
       "url": "https://docs.sprintpedia.id/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "api-reference",
+      "icon": "code-compare",
+      "url": "https://docs.sprintpedia.id/api-reference/introduction"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Overview",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Selamat Datang",
+        "Mulai cepat"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Deposit",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "deposit/perkenalan",
+        "deposit/bank",
+        "deposit/linkaja",
+        "deposit/dana",
+        "deposit/ovo",
+        "deposit/virtual-account",
+        "deposit/qris",
+        "deposit/indomaret",
+        "deposit/alfamart"
       ]
     },
     {
