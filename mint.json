@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "SPRINTPEDIA",
+  "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,14 +17,20 @@
   },
   "topbarLinks": [
     {
-      "name": "Login",
-      "url": "https://sprintpedia.id/auth/login"
+      "name": "Support",
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Register",
-    "url": "https://sprintpedia.id/auth/register"
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
   },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -44,50 +50,22 @@
   ],
   "navigation": [
     {
-      "group": "Overview",
+      "group": "Get Started",
       "pages": [
-        "Selamat Datang",
-        "Mulai cepat"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
-      "group": "Deposit",
+      "group": "Essentials",
       "pages": [
-        "deposit/perkenalan",
-        "deposit/bank",
-        "deposit/linkaja",
-        "deposit/dana",
-        "deposit/ovo",
-        "deposit/virtual-account",
-        "deposit/qris",
-        "deposit/indomaret",
-        "deposit/alfamart"
-      ]
-    },
-    {
-      "group": "Order",
-      "pages": [
-        "order/perkenalan",
-        "order/status",
-        "order/refill",
-        "order/cancel",
-        "order/faq"
-      ]
-    },
-    {
-      "group": "Layanan",
-      "pages": [
-        "layanan/instagram",
-        "layanan/tiktok",
-        "layanan/facebook",
-        "layanan/twitter",
-        "layanan/youtube",
-        "layanan/shopee",
-        "layanan/telegram",
-        "layanan/snack-video",
-        "layanan/website-trafik",
-        "layanan/threads",
-        "layanan/whatsapp"
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
       ]
     },
     {
