@@ -60,6 +60,32 @@
       ]
     },
     {
+      "group": "Order",
+      "pages": [
+        "order/perkenalan",
+        "order/status",
+        "order/refill",
+        "order/cancel",
+        "order/faq"
+      ]
+    },
+    {
+      "group": "Layanan",
+      "pages": [
+        "layanan/instagram",
+        "layanan/tiktok",
+        "layanan/facebook",
+        "layanan/twitter",
+        "layanan/youtube",
+        "layanan/shopee",
+        "layanan/telegram",
+        "layanan/snack-video",
+        "layanan/website-trafik",
+        "layanan/threads",
+        "layanan/whatsapp"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
