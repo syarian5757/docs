@@ -52,7 +52,8 @@
         "deposit/qris",
         "deposit/indomaret",
         "deposit/alfamart"
-      ]
+      ],
+      "icon": "fa-money-bill-wave"
     },
     {
       "group": "Pemesanan",
