@@ -43,17 +43,52 @@
     {
       "group": "Deposit",
       "pages": [
-        "deposit/perkenalan",
-        "deposit/bank",
-        "deposit/link-aja",
-        "deposit/dana",
-        "deposit/ovo",
-        "deposit/virtual-account",
-        "deposit/qris",
-        "deposit/indomaret",
-        "deposit/alfamart"
-      ],
-      "icon": "fa-money-bill-wave"
+        {
+          "page": "deposit/perkenalan",
+          "icon": "fa-info-circle",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/bank",
+          "icon": "fa-university",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/link-aja",
+          "icon": "fa-link",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/dana",
+          "icon": "fa-wallet",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/ovo",
+          "icon": "fa-mobile-alt",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/virtual-account",
+          "icon": "fa-credit-card",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/qris",
+          "icon": "fa-qrcode",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/indomaret",
+          "icon": "fa-store",
+          "iconType": "solid"
+        },
+        {
+          "page": "deposit/alfamart",
+          "icon": "fa-store-alt",
+          "iconType": "solid"
+        }
+      ]
     },
     {
       "group": "Pemesanan",
