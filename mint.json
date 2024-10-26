@@ -42,11 +42,11 @@
     },
     {
       "group": "Deposit",
+      "icon": "building-columns",
       "pages": [
         "deposit/perkenalan",
         {
-          "icon": "instagram",
-          "iconType": "solid"
+          "icon": "building-columns"
         },
         "deposit/bank",
         "deposit/link-aja",
