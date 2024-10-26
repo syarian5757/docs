@@ -44,6 +44,10 @@
       "group": "Deposit",
       "pages": [
         "deposit/perkenalan",
+        {
+          "icon": "instagram",
+          "iconType": "solid"
+        },
         "deposit/bank",
         "deposit/link-aja",
         "deposit/dana",
