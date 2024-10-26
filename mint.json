@@ -67,12 +67,12 @@
     {
         "group": "layanan",
         "pages": [
-            "instagram",
+            "layanan",
             {
                 "group": "instagram",
                 "pages": [
-                    "layanan/perkenalan",
-                    "layanan/followers"
+                    "instagram/perkenalan",
+                    "instagram/followers"
                 ]
             }
         ]
