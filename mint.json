@@ -68,6 +68,13 @@
       "group": "Layanan",
       "pages": [
         "layanan/instagram",
+        {
+            "group": "Perkenalan",
+            "pages": [
+                "layanan/perkenalan",
+                "layanan/followers"
+                ]
+        },
         "layanan/tiktok",
         "layanan/facebook",
         "layanan/shopee",
