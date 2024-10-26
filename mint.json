@@ -49,13 +49,36 @@
           "icon": "building-columns"
         },
         "deposit/bank",
+        {
+          "icon": "building-columns"
+        },
         "deposit/link-aja",
+        {
+          "icon": "building-columns"
+        },
         "deposit/dana",
-        "deposit/ovo",
+        {
+          "icon": "building-columns"
+        },
+        "deposit/ovo",{
+          "icon": "building-columns"
+        },
         "deposit/virtual-account",
+        {
+          "icon": "building-columns"
+        },
         "deposit/qris",
+        {
+          "icon": "building-columns"
+        },
         "deposit/indomaret",
+        {
+          "icon": "building-columns"
+        },
         "deposit/alfamart"
+        {
+          "icon": "building-columns"
+        }
       ]
     },
     {
