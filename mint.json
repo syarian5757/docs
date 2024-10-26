@@ -42,7 +42,6 @@
     },
     {
       "group": "Deposit",
-      "icon": "building-columns",
       "pages": [
         "deposit/perkenalan",
         "deposit/bank",
