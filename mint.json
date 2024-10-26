@@ -43,60 +43,15 @@
     {
       "group": "Deposit",
       "pages": [
-        {
-          "group": "Perkenalan",
-          "path": "deposit/perkenalan",
-          "icon": "fa-info-circle",
-          "iconType": "solid"
-        },
-        {
-          "group": "Bank",
-          "path": "deposit/bank",
-          "icon": "fa-university",
-          "iconType": "solid"
-        },
-        {
-          "group": "Link Aja",
-          "path": "deposit/link-aja",
-          "icon": "fa-link",
-          "iconType": "solid"
-        },
-        {
-          "group": "Dana",
-          "path": "deposit/dana",
-          "icon": "fa-wallet",
-          "iconType": "solid"
-        },
-        {
-          "group": "OVO",
-          "path": "deposit/ovo",
-          "icon": "fa-mobile-alt",
-          "iconType": "solid"
-        },
-        {
-          "group": "Virtual Account",
-          "path": "deposit/virtual-account",
-          "icon": "fa-credit-card",
-          "iconType": "solid"
-        },
-        {
-          "group": "QRIS",
-          "path": "deposit/qris",
-          "icon": "fa-qrcode",
-          "iconType": "solid"
-        },
-        {
-          "group": "Indomaret",
-          "path": "deposit/indomaret",
-          "icon": "fa-store",
-          "iconType": "solid"
-        },
-        {
-          "group": "Alfamart",
-          "path": "deposit/alfamart",
-          "icon": "fa-store-alt",
-          "iconType": "solid"
-        }
+        "deposit/perkenalan",
+        "deposit/bank",
+        "deposit/link-aja",
+        "deposit/dana",
+        "deposit/ovo",
+        "deposit/virtual-account",
+        "deposit/qris",
+        "deposit/indomaret",
+        "deposit/alfamart"
       ]
     },
     {
