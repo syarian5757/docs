@@ -65,34 +65,15 @@
       ]
     },
     {
-      "group": "Layanan",
-      "pages": [
-        "layanan/instagram",
-        {
-            "group": "Perkenalan",
-            "pages": [
-                "layanan/perkenalan",
-                "layanan/followers"
-                ]
-        },
-        "layanan/tiktok",
-        "layanan/facebook",
-        "layanan/shopee",
-        "layanan/snack-video",
-        "layanan/telegram",
-        "layanan/threads",
-        "layanan/twitter",
-        "layanan/youtube",
-        "layanan/netflix"
-      ]
-    },
-    {
         "group": "layanan",
         "pages": [
             "instagram",
             {
                 "group": "instagram",
-                "pages": ["layanan/perkenalan"]
+                "pages": [
+                    "layanan/perkenalan",
+                    "layanan/followers"
+                ]
             }
         ]
     },
