@@ -44,47 +44,56 @@
       "group": "Deposit",
       "pages": [
         {
-          "page": "deposit/perkenalan",
+          "group": "Perkenalan",
+          "path": "deposit/perkenalan",
           "icon": "fa-info-circle",
           "iconType": "solid"
         },
         {
-          "page": "deposit/bank",
+          "group": "Bank",
+          "path": "deposit/bank",
           "icon": "fa-university",
           "iconType": "solid"
         },
         {
-          "page": "deposit/link-aja",
+          "group": "Link Aja",
+          "path": "deposit/link-aja",
           "icon": "fa-link",
           "iconType": "solid"
         },
         {
-          "page": "deposit/dana",
+          "group": "Dana",
+          "path": "deposit/dana",
           "icon": "fa-wallet",
           "iconType": "solid"
         },
         {
-          "page": "deposit/ovo",
+          "group": "OVO",
+          "path": "deposit/ovo",
           "icon": "fa-mobile-alt",
           "iconType": "solid"
         },
         {
-          "page": "deposit/virtual-account",
+          "group": "Virtual Account",
+          "path": "deposit/virtual-account",
           "icon": "fa-credit-card",
           "iconType": "solid"
         },
         {
-          "page": "deposit/qris",
+          "group": "QRIS",
+          "path": "deposit/qris",
           "icon": "fa-qrcode",
           "iconType": "solid"
         },
         {
-          "page": "deposit/indomaret",
+          "group": "Indomaret",
+          "path": "deposit/indomaret",
           "icon": "fa-store",
           "iconType": "solid"
         },
         {
-          "page": "deposit/alfamart",
+          "group": "Alfamart",
+          "path": "deposit/alfamart",
           "icon": "fa-store-alt",
           "iconType": "solid"
         }
