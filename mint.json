@@ -65,9 +65,16 @@
       ]
     },
     {
-        "group": "layanan",
+        "group": "Layanan",
         "pages": [
-          "instagram/perkenalan"
+            {
+                "group": "Instagram",
+                "icon": "instagram",
+                "pages": [
+                    "layanan/instagram/perkenalan",
+                    "layanan/instagram/followers"
+                ]
+            }
         ]
     }
   ],
