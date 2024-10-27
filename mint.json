@@ -67,9 +67,9 @@
     {
         "group": "layanan",
         "pages": [
-            "layanan",
             {
-                "group": "instagram",
+                "group": "Instagram",
+                "icon": "instagram",
                 "pages": [
                     "instagram/perkenalan",
                     "instagram/followers"
