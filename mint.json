@@ -55,16 +55,6 @@
       ]
     },
     {
-      "group": "Pemesanan",
-      "pages": [
-        "pemesanan/perkenalan",
-        "pemesanan/status",
-        "pemesanan/refill",
-        "pemesanan/cancel",
-        "pemesanan/faq"
-      ]
-    },
-    {
         "group": "Layanan",
         "pages": [
             {
@@ -76,6 +66,16 @@
                 ]
             }
         ]
+    },
+    {
+      "group": "Pemesanan",
+      "pages": [
+        "pemesanan/perkenalan",
+        "pemesanan/status",
+        "pemesanan/refill",
+        "pemesanan/cancel",
+        "pemesanan/faq"
+      ]
     }
   ],
   "footerSocials": {
