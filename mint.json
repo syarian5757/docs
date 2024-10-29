@@ -63,9 +63,7 @@
                 "pages": [
                     "layanan/instagram/perkenalan",
                     "layanan/instagram/followers",
-                    "layanan/instagram/like",
-                    "layanan/instagram/views",
-                    "layanan/instagram/comment"
+                    "layanan/instagram/like"
                 ]
             }
         ]
