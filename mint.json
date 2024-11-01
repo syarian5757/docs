@@ -57,6 +57,7 @@
     {
         "group": "Layanan",
         "pages": [
+          "layanan/monitoring",
             {
                 "group": "Instagram",
                 "icon": "instagram",
