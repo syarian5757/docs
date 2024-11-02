@@ -82,7 +82,8 @@
     {
       "group": "other",
       "pages": [
-        "other/tiket"
+        "other/tiket",
+        "other/childpanel"
       ]
     }
   ],
