@@ -78,6 +78,12 @@
         "pemesanan/cancel",
         "pemesanan/faq"
       ]
+    },
+    {
+      "group": "other",
+      "pages": [
+        "other/tiket"
+      ]
     }
   ],
   "footerSocials": {
