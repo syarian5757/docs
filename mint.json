@@ -25,16 +25,6 @@
     "name": "Register",
     "url": "https://sprintpedia.id/auth/register"
   },
-  "tabs": [
-    {
-      "name": "Documentation",
-      "url": "selamat-datang"
-    },
-    {
-      "name": "API Reference",
-      "url": "api-reference/introduction"
-    }
-  ],
   "anchors": [
     {
       "name": "System Status",
