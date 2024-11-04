@@ -25,26 +25,17 @@
     "name": "Register",
     "url": "https://sprintpedia.id/auth/register"
   },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
     {
       "name": "System Status",
       "icon": "solar-system",
       "url": "https://hetrixtools.com/r/1f066c834c62ae70252a3df8142be4ce/"
-    },
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
