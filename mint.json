@@ -25,12 +25,6 @@
     "name": "Register",
     "url": "https://sprintpedia.id/auth/register"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "System Status",
