@@ -68,6 +68,17 @@
                     "layanan/instagram/views",
                     "layanan/instagram/comment"
                 ]
+            },
+            {
+                "group": "Tiktok",
+                "icon": "tiktok",
+                "pages": [
+                    "layanan/tiktok/perkenalan",
+                    "layanan/tiktok/followers",
+                    "layanan/tiktok/like",
+                    "layanan/tiktok/views",
+                    "layanan/tiktok/comment"
+                ]
             }
         ]
     },
