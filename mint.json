@@ -38,7 +38,8 @@
       "pages": [
         "selamat-datang",
         "quickstart",
-        "keuntungan-join"
+        "keuntungan-join",
+        "pemesanan/faq"
       ]
     },
     {
@@ -89,8 +90,7 @@
         "pemesanan/perkenalan",
         "pemesanan/status",
         "pemesanan/refill",
-        "pemesanan/cancel",
-        "pemesanan/faq"
+        "pemesanan/cancel"
       ]
     },
     {
